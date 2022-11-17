@@ -1,2 +1,2 @@
-# fullstack_lab
- Full Stack open 2022 lab
+# fullstack_exercises
+ Full Stack open 2022 exercises
